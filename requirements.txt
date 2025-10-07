@@ -1,0 +1,16 @@
+mysql-connector-python
+flask
+Flask-SQLAlchemy
+Flask-Cors
+gunicorn
+flask_session
+python-dotenv
+mysqlclient
+pymysql
+dotenv
+msal
+reportlab
+itsdangerous
+Flask-JWT-Extended
+Flask-Limiter
+wfastcgi
